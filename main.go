@@ -15,7 +15,8 @@ const (
 var (
 	// 分发名称:映射的hostname
 	wslName = map[string]string{
-		"ubuntu": "ubuntu.local",
+		"Ubuntu":       "ubuntu.local",
+		"Ubuntu-22.04": "ubuntu2004.local",
 	}
 )
 
