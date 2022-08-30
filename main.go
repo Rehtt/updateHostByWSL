@@ -16,7 +16,7 @@ var (
 	// 分发名称:映射的hostname
 	wslName = map[string]string{
 		"Ubuntu":       "ubuntu.local",
-		"Ubuntu-22.04": "ubuntu2004.local",
+		"Ubuntu-22.04": "ubuntu2204.local",
 	}
 )
 
