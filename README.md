@@ -1,0 +1,1 @@
+# 将wsl2 ip绑定到windows hosts中
